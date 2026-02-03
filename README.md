@@ -1,7 +1,7 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
-#### Name - Maithreyan D
-#### Reg. No. - 212222220021
+#### Name - Rakshitha P
+#### Reg. No. - 212223220083
 
 ## AIM:
 
@@ -11,22 +11,6 @@ To evaluate and compare the effectiveness of prompting techniques (zero-shot, fe
 
 You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
 
-Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
-
-
-## ALGORITHM:
-### Preparation: 
-Select or write a 500-word article titled “The Basics of Blockchain Technology.” 
-### Standardize the text input across all platforms. 
-### Define Prompting Techniques 
-### Zero-Shot Prompting: 
-“Summarize the following article.” 
-### Few-Shot Prompting: 
-Provide 2–3 example summaries and then ask for a summary. 
-### Chain-of-Thought Prompting: 
-Instruct the AI to think step-by-step before summarizing. 
-### Role-Based Prompting: 
-Ask the AI to act as a "professional content curator for students" while summarizing. 
 
 ## Platforms Evaluated:
 ### ChatGPT 
