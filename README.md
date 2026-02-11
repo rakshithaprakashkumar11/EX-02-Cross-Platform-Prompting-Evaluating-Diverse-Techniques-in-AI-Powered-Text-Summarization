@@ -27,7 +27,7 @@ The task is to summarize a technical article on Cloud Computing Fundamentals usi
 "Summarize the following article." 
 ```
 #### Summary: 
-Cloud computing allows users to access computing resources such as servers, storage, and applications through the internet instead of local hardware. It provides scalability, flexibility, and cost efficiency by enabling on-demand resource usage. Cloud computing is widely adopted across industries for data storage, application hosting, and collaboration.
+Cloud computing is a computing model that enables users to access resources such as servers, storage systems, databases, networking, and software applications through the internet rather than relying on local hardware. This approach allows organizations to scale resources according to demand, offering flexibility and cost efficiency. By using cloud services, users can avoid the expense of purchasing and maintaining physical infrastructure. Cloud computing is widely adopted across various industries for data storage, application hosting, online collaboration, and digital transformation initiatives.
 ### 2. Few-Shot Prompting 
 #### Prompt: 
 ```
@@ -37,7 +37,7 @@ Now, summarize the following article."
 
 ```
 #### Summary: 
-Cloud computing delivers computing services over the internet, eliminating the need for physical infrastructure. It supports flexible scaling and includes service models such as IaaS, PaaS, and SaaS. Organizations use cloud technology to improve efficiency, reduce costs, and enable remote access to data and applications. 
+Cloud computing delivers computing services over the internet, removing the dependency on physical servers and local infrastructure. It supports flexible resource allocation and includes different service models such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Organizations use cloud technology to enhance operational efficiency, reduce hardware and maintenance costs, and provide seamless remote access to data and applications for users across different locations.
 
 ### 3. Chain-of-Thought Prompting 
 #### Prompt: 
@@ -47,7 +47,7 @@ First, explain what cloud computing is,
 then summarize its benefits and applications." 
 ```
 #### Summary: 
-Cloud computing works by hosting computing resources in remote data centers that users can access via the internet. Instead of maintaining physical servers, organizations rely on cloud providers for storage, processing power, and software services. Its key benefits include scalability, cost reduction, improved performance, and global accessibility. 
+Cloud computing works by hosting computing resources in large-scale remote data centers operated by cloud service providers. Users connect to these resources through the internet instead of managing physical servers on-site. This model enables dynamic allocation of storage, processing power, and software services based on user demand. The key benefits of cloud computing include scalability, cost reduction, improved system performance, enhanced security, and global accessibility. Common applications include data storage, web hosting, application development, enterprise systems, disaster recovery, and online collaboration platforms.
 
 ### 4. Role-Based Prompting 
 #### Prompt: 
@@ -203,10 +203,10 @@ Cloud computing is like using online services instead of storing everything on y
 
 ### Result for the execution: 
 
-<img width="1048" height="481" alt="rating 1" src="https://github.com/user-attachments/assets/c236f409-13ca-4a89-86a3-7a1e2fcf4bcb" />
 
 <img width="1111" height="434" alt="rating 2" src="https://github.com/user-attachments/assets/5819fa70-a395-422e-9f0e-c02b1a9dc158" />
 
+<img width="1024" height="1536" alt="ChatGPT Image Feb 11, 2026, 02_13_43 PM" src="https://github.com/user-attachments/assets/760a3494-889f-440a-a143-6efd9965136c" />
 
 
 ## RESULT: 
