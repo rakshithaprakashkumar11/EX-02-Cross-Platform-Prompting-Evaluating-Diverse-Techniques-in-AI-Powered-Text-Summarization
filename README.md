@@ -206,7 +206,6 @@ Cloud computing is like using online services instead of storing everything on y
 
 <img width="1111" height="434" alt="rating 2" src="https://github.com/user-attachments/assets/5819fa70-a395-422e-9f0e-c02b1a9dc158" />
 
-<img width="1024" height="1536" alt="ChatGPT Image Feb 11, 2026, 02_13_43 PM" src="https://github.com/user-attachments/assets/760a3494-889f-440a-a143-6efd9965136c" />
 
 
 ## RESULT: 
